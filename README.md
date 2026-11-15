@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Pedro 👋
+Full stack software engineer focused on **software architecture, applied AI and security by design**.
 
-<!--
-**pedroteixeira01/pedroteixeira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Design and build cloud solutions (AWS, Azure) for enterprise clients, from architecture to production
+- Python APIs with LLM/RAG integrations and fine-tuning of local models
+- Security mindset: pentests, DevSecOps pipelines and secure-by-default standards
+- Mentor interns and trainees and run internal AI training sessions
 
-Here are some ideas to get you started:
+**Stack:** Python | FastAPI | TypeScript | React | Tailwind | PostgreSQL | Docker | AWS | Azure | GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured projects**
+- [AI-for-legal-corpus](https://github.com/pedroteixeira01/AI-for-legal-corpus) - chunking, anonymization and ROUGE evaluation for Brazilian legal documents
+- [Email-Sorter](https://github.com/pedroteixeira01/Email-Sorter) - LLM-powered personal email assistant
+
+ [LinkedIn](https://www.linkedin.com/in/pedro-teixeira-developer/)
